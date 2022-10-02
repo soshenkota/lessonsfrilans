@@ -1,0 +1,48 @@
+*{
+   color: blue;
+}
+
+span{
+   color: green;
+}
+
+.text{
+   color: red;
+}
+
+#h{
+   color: pink;
+}
+
+p.block{
+color:gray;
+}
+
+.class.title{
+   color: orange;
+}
+
+.text.main.littel{
+   color: blueviolet;
+}
+
+.img div{
+   color: #000;
+}
+
+.ram p{
+   color: #000;  
+}
+
+.ram > p{
+   color: green; 
+}
+
+.ram ~ p{
+   color: blue;
+}
+
+.ram + p{
+   color: red;
+}
+
