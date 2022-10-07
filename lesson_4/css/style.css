@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&family=Roboto:wght@400;700;900&display=swap');
+
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/AnyConv.com__Larsseit-Bold\ \(5\).woff2") format("woff2"), url("../fonts/AnyConv.com__Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Regular.woff2") format("woff2"), url("../fonts/Larsseit-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/AnyConv.com__Larsseit-Medium\ \(2\).woff2") format("wooff2"), url("../fonts/AnyConv.com__Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 600;
+   font-style: normal;
+}
+body {
+   font-family: "Larsseit";
+
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Black.woff2") format("woff2"), url(../fonts/Lato-Black.woff) format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+footer {
+   font-family: "Lato";
+}
+p.main {
+   font-family: "Roboto";
+   font-weight: 900;
+}
+
+* {
+   color: blue;
+}
+span {
+   color: green;
+}
+.text {
+   color: aqua;
+}
+#top {
+   color: brown;
+}
+p.title {
+   color: blueviolet;
+}
+.text.title {
+   color: chartreuse;
+}
+.href,
+.main {
+   color: black;
+}
+.text p {
+   color: violet;
+}
+.class .next {
+   color: darkslategray;
+}
+.vip * {
+   color: green;
+}
+.main>p {
+   color: cornflowerblue;
+}
+.main~p {
+   color: black;
+}
+p.title {
+   color: black;
+}
+p.footer-out {
+   color: blue;
+}
